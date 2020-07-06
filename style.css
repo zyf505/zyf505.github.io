@@ -1,0 +1,35 @@
+body {
+	background:linear-gradient(to right,blueViolet,lightSkyBlue);
+	font: 1.3em 'Andale Mono', sans-serif;
+}
+h1   {
+	font-family:'Times New Roman', serif;
+	text-align:center;
+}
+footer {
+	text-align:center;
+}
+.icons {
+	font-size: 150%;
+	text-align:center;
+}
+.titles{
+	color: black;
+	text-decoration:none;
+}
+.titles:hover{
+	color: red;
+	text-decoration:none;
+}
+
+#commentField {
+	width:80%;
+	height:200px;
+}
+.panel-primary {
+	border: 2px dotted blue;
+	border-radius: 20px;
+}
+.panel-body,.panel-footer{
+	margin: 10px 10px;
+}
