@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Still working on...
+Still working on ...
 
 Unpublished  Work
 ======

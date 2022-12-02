@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Yufeng Zou. I am a first-year Ph.D. student in the Computer Science Department at Northwestern University,
+Hello, welcome! My name is Yufeng Zou. I am a first-year Ph.D. student in the Computer Science Department at Northwestern University,
 advised by Prof. [Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). ML in decision making
 
 My primary research focus is time series analytics. My other reseaerch interests include network analytics, recommender systems, and text mining. 
