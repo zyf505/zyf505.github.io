@@ -17,4 +17,4 @@ I currrently focus on high-dimensional time series analytics. My other interests
 Misc
 ======
 I enjoy different kinds of sports activities, such as badminton, soccer, and cycling. I am a great fan of classical music. 
-I can play violin, and I'm learning to play piano on my own. I collected quite many CDs and violin music scores.
+I can play the violin, and I am learning to play the piano on my own. I collected quite many CDs and violin music scores.
