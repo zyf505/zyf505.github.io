@@ -14,4 +14,4 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Northwestern University, in progress
-* B.C. in Finance, B.S. (Hons.) in Computer Science, The University of Auckland, 2021
+* B.S. (Hons.) in Computer Science, B.C. in Finance, The University of Auckland, 2021
