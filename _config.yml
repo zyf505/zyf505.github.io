@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yufeng's Personal Website"
+title                    : "Yufeng's Personal Webpage"
 title_separator          : "-"
 name                     : &name "ZYF"
 description              : &description "personal description"
