@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [CV](https://drive.google.com/file/d/1zVBinu4-SABz5YdMHQPxK5mZ8-E_nAmD/view?usp=sharing)
+## [CV](https://drive.google.com/file/d/1zVBinu4-SABz5YdMHQPxK5mZ8-E_nAmD/view?usp=sharing){:target="_blank"}
 
 Education
 ======

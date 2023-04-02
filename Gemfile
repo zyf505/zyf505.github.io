@@ -27,4 +27,5 @@ group :jekyll_plugins do
   gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
   gem 'tzinfo'
   gem 'webrick'
+  gem 'jekyll-seo-tag'
 end
